@@ -13,7 +13,7 @@ This project demonstrates the use of decorators in TypeScript to modify and enha
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/el-riber/mob3>
 cd typescript-decorators
 ```
 
